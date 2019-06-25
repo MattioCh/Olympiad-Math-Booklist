@@ -9,9 +9,8 @@
   不等式:
   
     
-    "Inequalities A Mathematical Olympiad Approach" by Radmila Bulajich Manfrino, José Antonio Gómez Ortega, Rogelio Valdez Delgado
-   
-   "Basics of Olympiad Inequalities" by Samin Riasat
+    "Inequalities A Mathematical Olympiad Approach" by Radmila Bulajich Manfrino, José Antonio Gómez Ortega, Rogelio Valdez Delgado   
+    "Basics of Olympiad Inequalities" by Samin Riasat
     
   數論:
  
@@ -22,13 +21,13 @@
     
     "Olympiad Number Theory Through Challenging Problems" Justin Stevens
    
-   "NUMBER THEORY Structures, Examples, and Problems" by Titu Andreescu Dorin Andrica
+    "NUMBER THEORY Structures, Examples, and Problems" by Titu Andreescu Dorin Andrica
     
     
   排列組合:
     
    
-   "Enumerative Combinatorics Through Guided Discovery" by Kenneth P. Bogart
+    "Enumerative Combinatorics Through Guided Discovery" by Kenneth P. Bogart
     
     "Olympiad Combinatorics" by Pranav A. Sriram
     
@@ -54,7 +53,7 @@
   代數:
     
    
-   "101 PROBLEMS IN ALGEBRA FROM THE TRAINING OF THE USA IMO TEAM" by Titu Andreescu, Zuming Feng
+    "101 PROBLEMS IN ALGEBRA FROM THE TRAINING OF THE USA IMO TEAM" by Titu Andreescu, Zuming Feng
     
 
 
