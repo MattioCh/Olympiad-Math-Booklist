@@ -6,7 +6,7 @@ General Problem Solving:
 
 Booklist
   
-  不等式:
+  Inequality:
   
     
     "Inequalities A Mathematical Olympiad Approach" by Radmila Bulajich Manfrino, José Antonio Gómez Ortega, Rogelio Valdez Delgado   
